@@ -58,9 +58,12 @@ There is no need to specific procedure to follow.
 <!-- CONTACT -->
 ## Contact
 
-Project Link - [YOLOv8 Computer Vision Tasks](https://github.com/gorselanaliz/yolov8)
+Discord - [Discord](https://discord.gg/AEvZdFs5rF)
 
-Gorsel Analiz Robotic Club -  analizgorsel@gmail.com
+Instagram - [Instagram](https://www.instagram.com/gorselanaliz_/)
+
+
+E-mail -  analizgorsel@gmail.com
 
 <!-- LICENSE -->
 ## License
