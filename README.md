@@ -58,6 +58,8 @@ There is no need to specific procedure to follow.
 <!-- CONTACT -->
 ## Contact
 
+Project Link - [Udemy](https://www.udemy.com/course/yolov8-sfrdan-ileri-duzeye-projelerle-yolov8)
+
 Discord - [Discord](https://discord.gg/AEvZdFs5rF)
 
 Instagram - [Instagram](https://www.instagram.com/gorselanaliz_/)
