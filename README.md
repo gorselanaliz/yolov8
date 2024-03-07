@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on Google C
   <br/>
 
 
-### Prerequisites
+## Prerequisites
 
 All you need to have is a Google account.
 
@@ -33,7 +33,7 @@ All you need to have is a Google account.
 
 <br/>
 
-### Installation
+## Installation
 
 A step by step guide that will tell you how to get the development environment up and running. You can just follow the steps on the notebook which we provide you. 
 
