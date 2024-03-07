@@ -1,10 +1,9 @@
-# YOLOv8 🚀
-![MasterHead](https://miro.medium.com/v2/resize:fit:752/1*NIJb0RLUPyucJo_Z9yTPrA.png)
+# YOLOv8 Computer Vision Tasks 🚀
 
-# YOLOv8 Computer Vision Tasks
 
 This project leverages the power of YOLOv8 (You Only Look Once version 8) for real-time object detection. YOLOv8 is a state-of-the-art, fast, and accurate object detection algorithm that allows us to detect and classify multiple objects within images or video frames.
 
+![MasterHead](https://miro.medium.com/v2/resize:fit:752/1*NIJb0RLUPyucJo_Z9yTPrA.png)
 
 
 
@@ -17,9 +16,12 @@ These instructions will get you a copy of the project up and running on Google C
 * Object Detection
 * Keypoint Detection
 * Object Tracking
-  
 
-![](https://files.seeedstudio.com/wiki/YOLOV8-TRT/8.gif)
+<br/>
+
+![](https://github.com/gorselanaliz/yolov8/blob/main/projects.gif)
+  <br/>
+
 
 ### Prerequisites
 
@@ -28,6 +30,8 @@ All you need to have is a Google account.
 * Google Account
 * Google Drive
 * Google Colabratory (with GPU Runtime)
+
+<br/>
 
 ### Installation
 
