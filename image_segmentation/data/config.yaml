@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/YOLOv8/4_image_segmentation/data/car_part_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+
+
+names: ['back_bumper', 'back_door', 'back_glass', 'back_light', 
+        'front_bumper', 'front_door', 'front_glass', 'front_light', 
+        'hood']
