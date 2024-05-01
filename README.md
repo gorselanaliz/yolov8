@@ -9,13 +9,14 @@ This project leverages the power of YOLOv8 (You Only Look Once version 8) for re
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on Google Colab environment for development and testing purposes. This projects consists of 5 projects:
+These instructions will get you a copy of the project up and running on Google Colab environment for development and testing purposes. This projects consists of 6 projects:
 
 * Image Classification
 * Image Segmentation
 * Object Detection
 * Keypoint Detection
 * Object Tracking
+* Real-Time Object Detection
 
 <br/>
 
